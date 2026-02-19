@@ -11,4 +11,12 @@ public class Payloads {
 				+ "}\r\n"
 				+ "";
 	}
+	
+	public static String deleteBookPayload(String id) {
+		return "{\r\n"
+				+ "\"ID\" : \""+id+"\"\r\n"
+				+ "} \r\n"
+				+ "";
+		
+	}
 }

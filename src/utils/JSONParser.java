@@ -6,7 +6,8 @@ public class JSONParser {
 
 	
 	public static JsonPath getjsonParser(String response) {
-		return new JsonPath(response);
+		JsonPath js = new JsonPath(response);
+		return js;
 		
 	}
 }
