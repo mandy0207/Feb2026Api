@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-02-23T07:47:55 IST" name="Default suite" finished-at="2026-02-23T07:47:58 IST" duration-ms="3112">
+  <suite started-at="2026-02-23T08:30:59 IST" name="Default suite" finished-at="2026-02-23T08:31:01 IST" duration-ms="1827">
     <groups>
     </groups>
-    <test started-at="2026-02-23T07:47:55 IST" name="Default test" finished-at="2026-02-23T07:47:58 IST" duration-ms="3112">
-      <class name="basics.LearnSerialization">
-        <test-method signature="seralizationTest()[pri:0, instance:basics.LearnSerialization@1de76cc7]" started-at="2026-02-23T07:47:55 IST" name="seralizationTest" finished-at="2026-02-23T07:47:58 IST" duration-ms="3052" status="PASS">
+    <test started-at="2026-02-23T08:30:59 IST" name="Default test" finished-at="2026-02-23T08:31:01 IST" duration-ms="1827">
+      <class name="basics.LearnDeserialization">
+        <test-method signature="deserializeTest()[pri:0, instance:basics.LearnDeserialization@194bcebf]" started-at="2026-02-23T08:30:59 IST" name="deserializeTest" finished-at="2026-02-23T08:31:01 IST" duration-ms="1788" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- seralizationTest -->
-      </class> <!-- basics.LearnSerialization -->
+        </test-method> <!-- deserializeTest -->
+      </class> <!-- basics.LearnDeserialization -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
