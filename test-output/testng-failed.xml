@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="basics.LibraryManagementSystem">
+      <class name="basics.LearnSerialization">
         <methods>
-          <include name="E2ETest"/>
+          <include name="seralizationTest"/>
         </methods>
-      </class> <!-- basics.LibraryManagementSystem -->
+      </class> <!-- basics.LearnSerialization -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
