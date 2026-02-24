@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-02-23T08:30:59 IST" name="Default suite" finished-at="2026-02-23T08:31:01 IST" duration-ms="1827">
+  <suite started-at="2026-02-24T08:06:22 IST" name="Default suite" finished-at="2026-02-24T08:06:30 IST" duration-ms="7652">
     <groups>
     </groups>
-    <test started-at="2026-02-23T08:30:59 IST" name="Default test" finished-at="2026-02-23T08:31:01 IST" duration-ms="1827">
-      <class name="basics.LearnDeserialization">
-        <test-method signature="deserializeTest()[pri:0, instance:basics.LearnDeserialization@194bcebf]" started-at="2026-02-23T08:30:59 IST" name="deserializeTest" finished-at="2026-02-23T08:31:01 IST" duration-ms="1788" status="PASS">
+    <test started-at="2026-02-24T08:06:22 IST" name="Default test" finished-at="2026-02-24T08:06:30 IST" duration-ms="7652">
+      <class name="basics.LearnSpecBuilders">
+        <test-method signature="learnsSpecBuilderTest()[pri:0, instance:basics.LearnSpecBuilders@1de76cc7]" started-at="2026-02-24T08:06:22 IST" name="learnsSpecBuilderTest" finished-at="2026-02-24T08:06:30 IST" duration-ms="7520" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- deserializeTest -->
-      </class> <!-- basics.LearnDeserialization -->
+        </test-method> <!-- learnsSpecBuilderTest -->
+      </class> <!-- basics.LearnSpecBuilders -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

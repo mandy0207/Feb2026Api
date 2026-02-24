@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="basics.LearnDeserialization">
+      <class name="basics.LearnSpecBuilders">
         <methods>
-          <include name="deserializeTest"/>
+          <include name="learnsSpecBuilderTest"/>
         </methods>
-      </class> <!-- basics.LearnDeserialization -->
+      </class> <!-- basics.LearnSpecBuilders -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
